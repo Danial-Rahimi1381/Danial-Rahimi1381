@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Danial Rahimi</h1>
-<h3 align="center">Embedded system</h3>
-<img src = "https://scitechdaily.com/images/Electronic-Chip.gif"/>
+<img width = "100%" src = "https://scitechdaily.com/images/Electronic-Chip.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danial-rahimi1381&label=Profile%20views&color=0e75b6&style=flat" alt="danial-rahimi1381" /> </p>
+<h1 align="center">Hi 👋, I'm Danial Rahimi</h1>
 
-- 🔭 I’m currently working on **Smart animal husbandry**  ![Danial](https://github.com/Danial-Rahimi1381/DanialRM/assets/147029573/2f4136ee-166c-4dfd-a4d2-eaa3395ecf78)
+<img align = "right" width = "250px" src = "https://github.com/Danial-Rahimi1381/Danial-Rahimi1381/assets/147029573/0d46e6fa-9798-4737-b526-03e31f8552fe">
 
-
+- 🔭 I’m currently working on **Smart animal husbandry** 
 - 🌱 I’m currently learning **STM32**
-
 - 📫 How to reach me **danialrahimi4450@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
